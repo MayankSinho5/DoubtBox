@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Primary Colors -->
+<color name="primaryBlue">#1E3C72</color>
+<color name="primaryBlueDark">#152851</color>
+<color name="accentBlue">#2A5298</color>
+
+<!-- text -->
+<color name="textWhite">#FFFFFF</color>
+<color name="textDark">#1A1A1A</color>
+<color name="textHint">#B0BEC5</color>
+
+<!-- Buttons -->
+<color name="buttonColor">#2979FF</color>
+<color name="buttonColorDark">#1C54B2</color>
+
+<!-- Chat bubbles -->
+<color name="userBubble">#E1F5FE</color>
+<color name="assistantBubble">#FFF9C4</color>
+
+<!-- EditText background -->
+<color name="editWhite">#FFFFFF</color>
+</resources>

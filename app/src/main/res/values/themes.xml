@@ -1,0 +1,22 @@
+<resources>
+    <style name="Theme.DoubtBox" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- PRIMARY COLORS -->
+        <item name="colorPrimary">@color/primaryBlue</item>
+        <item name="colorPrimaryDark">@color/primaryBlueDark</item>
+        <item name="colorAccent">@color/accentBlue</item>
+
+        <!-- Text -->
+        <item name="android:textColorPrimary">@color/textDark</item>
+        <item name="android:textColorSecondary">@color/textHint</item>
+
+        <!-- Buttons -->
+        <item name="android:buttonStyle">@style/DoubtButton</item>
+    </style>
+
+    <!-- Custom Button Style -->
+    <style name="DoubtButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@color/textWhite</item>
+    </style>
+</resources>

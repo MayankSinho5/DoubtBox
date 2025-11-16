@@ -33,29 +33,6 @@ Smooth scrolling
 
 Simple mock AI reply
 
-📂 Project Structure
-app/
- ┣ java/com/example/doubtbox/
- ┃ ┣ LoginActivity.kt
- ┃ ┣ ChatActivity.kt
- ┃ ┣ MessageAdapter.kt
- ┃ ┗ ChatMessage.kt
- ┣ res/
- ┃ ┣ layout/activity_login.xml
- ┃ ┣ layout/activity_chat.xml
- ┃ ┣ layout/item_user.xml
- ┃ ┣ layout/item_assistant.xml
- ┃ ┣ drawable/
- ┃ ┃ ┣ chat_bg.xml
- ┃ ┃ ┣ rounded_white.xml
- ┃ ┃ ┣ rounded_button.xml
- ┃ ┃ ┣ bg_user.xml
- ┃ ┃ ┗ bg_assistant.xml
- ┃ ┗ values/
- ┃ ┃ ┣ colors.xml
- ┃ ┃ ┗ themes.xml
- ┗ AndroidManifest.xml
-
 🛠️ Tech Stack
 
 Kotlin
@@ -72,34 +49,19 @@ ConstraintLayout / LinearLayout
 
 Clone the repository:
 
-git clone https://github.com/your-username/DoubtBox.git
-
-
-Open the project in Android Studio
-
-Let Gradle sync
-
-Run the app on:
-
-Emulator
-
-or Physical Android Device
-
-📸 Screenshots (Add your own)
-
-You can add:
-
-Login screen screenshot
-
-Chat screen screenshot
+git clone https://github.com/MayankSinhp5/DoubtBox.git
 
 Example:
-
-![Login Screen](<img width="361" height="793" alt="image" src="https://github.com/user-attachments/assets/bec4c339-60e4-433d-baf3-ed0e751faa18" />
-)
-![Chat Screen](<img width="353" height="787" alt="image" src="https://github.com/user-attachments/assets/d3afb748-4203-453d-ab28-bfda10e054fc" />
-)
-
+<table>
+  <tr>
+    <th>Login Screen:</th>
+    <th>Chat Screen:</th>
+   </tr>
+  <tr>
+    <td><img width="361" height="793" alt="image" src="https://github.com/user-attachments/assets/bec4c339-60e4-433d-baf3-ed0e751faa18" /></td>
+    <td><img width="353" height="787" alt="image" src="https://github.com/user-attachments/assets/d3afb748-4203-453d-ab28-bfda10e054fc" /></td>
+  </tr>
+</table>
 🤖 How the Assistant Works
 
 The assistant reply is simple and local:
